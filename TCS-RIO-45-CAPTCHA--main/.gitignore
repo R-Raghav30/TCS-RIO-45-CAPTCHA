@@ -1,0 +1,36 @@
+# Java build artifacts
+*.class
+*.jar
+*.war
+
+# Tomcat files
+apache-tomcat-*/
+*.zip
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Compiled classes directory
+CaptchaProject/WEB-INF/classes/
+
+# Servlet API (should be downloaded during setup)
+servlet-api.jar 
